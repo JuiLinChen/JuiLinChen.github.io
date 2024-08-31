@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Jui-Lin Chen / Jui-Lin Chen"
+title                    : "Jui-Lin Chen (陳睿霖)"
 title_separator          : "-"
 name                     : &name "Jui-Lin Chen"
 description              : &description "Economics PhD Student at Duke"
@@ -22,13 +22,13 @@ repository               : "JuiLinChen/JuiLinChen.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
+  name             : "Jui-Lin Chen"
+  pronouns         : # example: "she/her"
   bio              : "Economics PhD Candidate at Duke"
   location         : "Durham, NC 27708"
   employer         : "Duke University"
   uri              : # URL
-  email            : "shengpei.chen@duke.edu" 
+  email            : "shengpei.chen@duke.edu"
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
