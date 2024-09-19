@@ -9,7 +9,7 @@ author_profile: true
 
 ***
 
-## Teaching Assistant at Duke
+## Teaching Assistant Experience at Duke
 
 * Corporate Finance Theory (Finance Ph.D. core)       
 Prof. Adriano Rampini and Vish Viswanathan, 2023 Spring
@@ -21,7 +21,7 @@ Prof. Andrea Lanteri, 2022 Fall, [TA Evaluation](https://juilinchen.github.io/fi
 Prof. Craig Burnside, 2021 Fall
 
 
-## Teaching Assistant at National Taiwan University
+## Teaching Assistant Experience at National Taiwan University
 
 * Academic English Writing for Economics (Grad.)    
 Prof. Adrian Huang, 2018 Spring   
