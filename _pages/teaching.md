@@ -9,24 +9,37 @@ author_profile: true
 
 ***
 
-## Teaching Assistant
+## Teaching Assistant at Duke
 
-* Econometrics II (Ph.D. core)   
-Prof. Adam Rosen and Andrew Patton, 2021 Spring, [TA Evaluation](https://myren-econ.github.io/files/Ren_Muyang_707_S21.pdf)   
+* Corporate Finance Theory (Finance Ph.D. core)       
+Prof. Adriano Rampini and Vish Viswanathan, 2023 Spring
 
-* Econometrics I (Ph.D. core)  
-Prof. Matt Masten, 2020 Fall, [TA Evaluation](https://myren-econ.github.io/files/Ren_Muyang_703_F20.pdf)   
+* Intermediate Macroeconomics (Undergrad.), Head TA     
+Prof. Andrea Lanteri, 2022 Fall
+
+* Intermediate Macroeconomics (Undergrad.), Head TA     
+Prof. Craig Burnside, 2021 Fall
 
 
-## Grader
+## Teaching Assistant at National Taiwan University
 
-* Partial Identification: Theory and Applications in Industrial Organization (2nd year PhD elective)   
-Prof. Allan Collard-Wexler and Adam Rosen, 2022 Spring   
+* Academic English Writing for Economics (Grad.)    
+Prof. Adrian Huang, 2018 Spring   
 
-* Econometrics III (2nd year PhD elective)   
-Prof. Adam Rosen, 2021 Fall
+* Fundamental English Writing for Economics (Grad.)             
+Instructor Jie-Wei Jiang, 2017 Fall
 
-## Tutor
+* Money and Banking I & II (Undergrad.)           
+Prof. Yiting Li, 2017 Fall-2018 Spring  
 
-* Econometrics I and II (Ph.D. core)   
-Tutor for first-year public policy & economics PhD students from Duke Sanford School of Public Policy, 2021 Fall - 2022 Spring
+* Monetary Theory and Policy I (Grad.)           
+Prof. Yiting Li, 2016 Spring and 2017 Spring
+
+* Financial Economics (Undergrad.)                     
+Prof. Hung-Jen Wang, 2015 Spring 
+
+* Economic Development (Undergrad.)                     
+Prof. Hung-Ju Chen, 2014 Fall
+
+* Principle of Economics I & II (Undergrad.)                               
+Prof. Ming-Jen Lin, 2014 Fall-2015 Spring
