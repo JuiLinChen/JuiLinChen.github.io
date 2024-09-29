@@ -49,6 +49,7 @@ author_profile: true
 ***
 
 ## Pollution Taxes in a North-South Economy with FDI and R&D
+with [Hung-Ju Chen](https://hjcntu.weebly.com), [Kai-Jie Wu](https://sites.google.com/view/kai-jiewu/) and [Yibai Yang](https://yibaiyang.weebly.com)
 
 <details>
     <summary><u>Abstract</u></summary><p> 
