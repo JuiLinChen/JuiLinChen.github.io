@@ -29,7 +29,7 @@ author_profile: true
 ## Long- and Short-run Effects of Interest Rates on Builders and the Housing Market
 
 **Abstract:** 
- 
+ This paper shows effects of real interest rates on builders and the housing market in the long run and during the transitional dynamics under fixed-rate mortgages (FRM). I develop a heterogeneous agent model with different structures of mortgages and liquid assets, lumpy adjustment of housing, and the construction sector with time to build to decompose effects of interest rates on housing prices. I find that, in a long-run stationary equilibrium, there are heterogeneous response of policy functions of households and the distribution effect affecting the housing demand, while an increase in interest rates always deter construction. When interest rates temporarily increase, the distribution effect is weak since it needs time for households to shift to the new distribution. Therefore, the negative response of builders can partially offset or  overturn the decrease of price from a lower demand in the short run. I show that the housing price dynamics can be opposite between economies with and without the builder. By calibrating the model, instead of the lock-in effect, builders' negative response to interest rates is the main force of the recent high housing price under rising rates.
 
 <br>
 
