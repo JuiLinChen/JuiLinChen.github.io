@@ -66,3 +66,11 @@ with [Hung-Ju Chen](https://hjcntu.weebly.com), [Kai-Jie Wu](https://sites.googl
 </p>
 </details> <br> 
 
+## Homebuilder Concentration and Housing Market Dynamics
+with [Chun-Che Chi](https://www.chunchechi.com) and Kai-Yuan Ke
+
+<details>
+    <summary><u>Abstract</u></summary><p> 
+    
+</p>
+</details> <br> 
