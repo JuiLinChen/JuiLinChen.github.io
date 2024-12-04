@@ -30,7 +30,7 @@ author_profile: true
 
 <details>
     <summary><u>Abstract</u></summary><p> 
-  This paper shows effects of real interest rates on builders and the housing market in the long run and during the transitional dynamics under fixed-rate mortgages (FRM). I develop a heterogeneous agent model with different structures of mortgages and liquid assets, lumpy adjustment of housing, and the construction sector with time to build to decompose effects of interest rates on housing prices. I find that, in a long-run stationary equilibrium, there are heterogeneous response of policy functions of households and the distribution effect affecting the housing demand, while an increase in interest rates always deter construction. When interest rates temporarily increase, the distribution effect is weak since it needs time for households to shift to the new distribution. Therefore, the negative response of builders can partially offset or  overturn the decrease of price from a lower demand in the short run. I show that the housing price dynamics can be opposite between economies with and without the builder. By calibrating the model, instead of the lock-in effect, builders' negative response to interest rates is the main force of the recent high housing price under rising rates.  
+This paper shows effects of real interest rates on builders and the housing market in the long run and during the transitional dynamics under fixed-rate mortgages (FRM). I develop a heterogeneous agent model with different structures of mortgages and liquid assets, lumpy adjustment of housing, and the construction sector with time to build to decompose effects of interest rates on housing prices. I find that, in a long-run stationary equilibrium, there are heterogeneous response of policy functions of households and the distribution effect affecting the housing demand, while an increase in interest rates always deter construction. When interest rates temporarily increase, the distribution effect is weak since it needs time for households to shift to the new distribution. Therefore, the negative response of builders can partially offset or  overturn the decrease of price from a lower demand in the short run. I show that the housing price dynamics can be opposite between economies with and without the builder. By calibrating the model, instead of the lock-in effect, builders' negative response to interest rates is the main force of the recent high housing price under rising rates.  
 </p>
 </details> <br> 
 
@@ -49,36 +49,35 @@ author_profile: true
 # Work In Progress
 ***
 
-## Pollution Taxes in a North-South Economy with FDI and R&D
-with [Hung-Ju Chen](https://hjcntu.weebly.com), [Kai-Jie Wu](https://sites.google.com/view/kai-jiewu/) and [Yibai Yang](https://yibaiyang.weebly.com)
 
-<details>
-    <summary><u>Abstract</u></summary><p> 
-    
-</p>
-</details> <br> 
 
 ## Who Gets the Consumer Credit? A Credit Allocation Problem in a Heterogeneous Agent Model
 
 <details>
     <summary><u>Abstract</u></summary><p> 
- This paper aims to provide a quantitative framework to analyze the effect of housing price on non-homeowners’
-consumption and consumption inequality via the credit channel. Empirically, the unsecured debt accounts for a
-higher household debt fraction when housing prices drop after 2000. In addition, non-homeowner’s share of debts
-increases when the housing price drops. Theoretically, non-homeowners do not have houses on their balance
-sheets, hence housing prices do not directly affect non-homeowners’ consumption. However, a higher housing
-price can crowd out the unsecured debt via the credit market by increasing the pledgeability of houses and
-mortgage balance. This paper builds an Aiyagari-type model with endogenous housing and saving-borrowing
-choices and shows that an increase in housing prices loosens the mortgage borrowing constraint and crowds
-out unsecured debts. The model-generated pattern shows that low-wealth households are non-homeowners who
-finance through unsecured debts, the middle-class households are non-homeonwers who save, while high-wealth
-households are homeowners who finance through secured and unsecured debts. Throughout this credit channel,
-a higher housing price decreases non-homeowners’ debt share and non-homeowners’ consumption.   
+This paper aims to provide a quantitative framework to analyze the effect of housing price on non-homeowners’ consumption and consumption inequality via the credit channel. Empirically, the unsecured debt accounts for a higher household debt fraction when housing prices drop after 2000. In addition, non-homeowner’s share of debts increases when the housing price drops. Theoretically, non-homeowners do not have houses on their balance sheets, hence housing prices do not directly affect non-homeowners’ consumption. However, a higher housing price can crowd out the unsecured debt via the credit market by increasing the pledgeability of houses and mortgage balance. This paper builds an Aiyagari-type model with endogenous housing and saving-borrowing choices and shows that an increase in housing prices loosens the mortgage borrowing constraint and crowds out unsecured debts. The model-generated pattern shows that low-wealth households are non-homeowners who finance through unsecured debts, the middle-class households are non-homeonwers who save, while high-wealth households are homeowners who finance through secured and unsecured debts. Throughout this credit channel, a higher housing price decreases non-homeowners’ debt share and non-homeowners’ consumption.   
 </p>
 </details> <br> 
 
 ## Homebuilder Concentration and Housing Market Dynamics
 with [Chun-Che Chi](https://www.chunchechi.com) and Kai-Yuan Ke
+
+<details>
+    <summary><u>Abstract</u></summary><p> 
+This study examines housing price dynamics during booming cycles and finds a positive relationship between market concentration and price change, with highly concentrated markets experiencing larger surges. A dynamic model supports these findings, showing equilibrium prices decline as the number of firms increases. While limited to boom periods due to the lack of firm-level data, the results highlight the role of market concentration in housing price dynamics.   
+</p>
+</details> <br> 
+
+## Ambiguity and Liquidity
+
+<details>
+    <summary><u>Abstract</u></summary><p> 
+This project studies how the ambiguity property of an asset affect its liquidity. The ambiguity property might not only affect the asset price. It might affect how people are willing to hold it as a medium of exchange. This paper builds a monetary search model to endogenize liquidity of an ambiguous asset. Ambiguity generates an additional perceived loss if buyers and sellers choose to use the asset in the transaction. This perceived loss does not show in rational expectation models since there would be no room for both parts losing. In this case, there is a pecking order theory: people will use money first. If they still want to transact more goods, they will use the asset next. This implies that the ambiguity property harms liquidity of the asset. In addition, inflation makes the value of money depreciate, and people will be willing to bring assets and use them in transactions.
+</p>
+</details> <br> 
+
+## Pollution Taxes in a North-South Economy with FDI and R&D
+with [Hung-Ju Chen](https://hjcntu.weebly.com), [Kai-Jie Wu](https://sites.google.com/view/kai-jiewu/) and [Yibai Yang](https://yibaiyang.weebly.com)
 
 <details>
     <summary><u>Abstract</u></summary><p> 
