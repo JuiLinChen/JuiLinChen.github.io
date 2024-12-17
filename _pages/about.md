@@ -13,3 +13,4 @@ My research focuses on macroeconomics, household finance, and housing market. I 
 
 My CV is attached [here](https://juilinchen.github.io/files/CV.pdf).
 
+**Job market paper**: [here](https://juilinchen.github.io/files/JMP_Chen.pdf)
