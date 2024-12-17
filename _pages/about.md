@@ -15,4 +15,4 @@ My research focuses on **macroeconomics, household finance, and real estate**.
 
 My CV is attached [here](https://juilinchen.github.io/files/CV.pdf).
 
-**Job market paper**: [here](https://juilinchen.github.io/files/JMP_Chen.pdf)
+**Job market paper**: [Long- and Short-run Effects of Interest Rates on Builders and the Housing Market](https://juilinchen.github.io/files/JMP_Chen.pdf)
