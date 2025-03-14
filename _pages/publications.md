@@ -50,11 +50,18 @@ This paper analyzes the effects of real interest rates on homebuilders and the h
 
 
 
-## Who Gets the Consumer Credit? A Credit Allocation Problem in a Heterogeneous Agent Model
+## Effects of Housing Prices on Credit Allocation in a Heterogeneous-Agents Model
 
 <details>
     <summary><u>Abstract</u></summary><p> 
-This paper aims to provide a quantitative framework to analyze the effect of housing price on non-homeowners' consumption and consumption inequality via the credit channel. Empirically, the unsecured debt accounts for a higher household debt fraction when housing prices drop after 2000. In addition, non-homeowner's share of debts increases when the housing price drops. Theoretically, non-homeowners do not have houses on their balance sheets, hence housing prices do not directly affect non-homeowners' consumption. However, a higher housing price can crowd out the unsecured debt via the credit market by increasing the pledgeability of houses and mortgage balance. This paper builds an Aiyagari-type model with endogenous housing and saving-borrowing choices and shows that an increase in housing prices loosens the mortgage borrowing constraint and crowds out unsecured debts. The model-generated pattern shows that low-wealth households are non-homeowners who finance through unsecured debts, the middle-class households are non-homeonwers who save, while high-wealth households are homeowners who finance through secured and unsecured debts. Throughout this credit channel, a higher housing price decreases non-homeowners' debt share and non-homeowners' consumption.   
+This paper analyzes effects of housing prices on non-homeowners' consumption.
+Using a heterogeneous-agents model, I show that low- and high-wealth households utilize unsecured debt, while middle-wealth households save against liquid assets. 
+High-wealth households are simultaneously homeowners and mortgage borrowers.
+Rising housing prices generate an increase in the interest rate due to enhanced housing pledgeability, which crowds out unsecured debt availability for low-wealth households. 
+Higher housing prices elevate the wealth threshold necessary for homeownership due to increased down payment requirements and the minimum purchase constraint.
+Although non-homeowners lack housing assets on their balance sheets, housing prices impact their consumption through credit market spillovers.
+A reduction in the loan-to-value ratio constrains mortgage borrowing capacity, thereby decreasing aggregate mortgage demand. 
+This effect on the credit market results in a lower equilibrium interest rate and attenuates consumption inequality across the wealth distribution.
 </p>
 </details> <br> 
 
