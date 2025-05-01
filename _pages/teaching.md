@@ -21,7 +21,7 @@ Prof. Andrea Lanteri, 2022 Fall, [TA Evaluation](https://juilinchen.github.io/fi
 Prof. Craig Burnside, 2021 Fall
 
 
-## Teaching Assistant Experience at National Taiwan University
+<!-- ## Teaching Assistant Experience at National Taiwan University
 
 * Academic English Writing for Economics (Grad.)    
 Prof. Adrian Huang, 2018 Spring   
@@ -42,4 +42,4 @@ Prof. Hung-Jen Wang, 2015 Spring
 Prof. Hung-Ju Chen, 2014 Fall
 
 * Principle of Economics I & II (Undergrad.)                               
-Prof. Ming-Jen Lin, 2014 Fall-2015 Spring
+Prof. Ming-Jen Lin, 2014 Fall-2015 Spring -->
