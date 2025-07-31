@@ -11,4 +11,4 @@ Hello, I am Jui-Lin Chen. I am an Assistant Professor in the [Department of Econ
 
 My research focuses on **macroeconomics, household finance, and housing market**. 
 
-You can reach me at [juilinchen at gm.ntpu.edu.tw](mailto:juilinchen@gm.ntpu.edu.tw). 
+You can reach me at [juilinchen"at"gm.ntpu.edu.tw](mailto:juilinchen@gm.ntpu.edu.tw). 

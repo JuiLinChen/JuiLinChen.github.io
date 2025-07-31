@@ -82,6 +82,7 @@ This project studies how the ambiguity property of an asset affect its liquidity
 </p>
 </details> <br> 
 
+<!--
 ## Pollution Taxes in a North-South Economy with FDI and R&D
 with [Hung-Ju Chen](https://hjcntu.weebly.com), [Kai-Jie Wu](https://sites.google.com/view/kai-jiewu/) and [Yibai Yang](https://yibaiyang.weebly.com)
 
@@ -90,3 +91,4 @@ with [Hung-Ju Chen](https://hjcntu.weebly.com), [Kai-Jie Wu](https://sites.googl
     
 </p>
 </details> <br> 
+>
