@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Hello, I am Jui-Lin Chen. I am a PhD candidate at Duke Economics. I will join the [Department of Economics at National Taipei University](https://econ.ntpu.edu.tw) as an Assistant Professor in Fall 2025.
+Hello, I am Jui-Lin Chen. I am an Assistant Professor in the [Department of Economics at National Taipei University](https://econ.ntpu.edu.tw). I received my PhD in Economics from Duke University.
 
 My research focuses on **macroeconomics, household finance, and housing market**. 
 
