@@ -11,4 +11,4 @@ Hello, I am Jui-Lin Chen. I am a PhD candidate at Duke Economics. I will join th
 
 My research focuses on **macroeconomics, household finance, and housing market**. 
 
-You can reach me at [shengpei.chen@duke.edu](mailto:shengpei.chen@duke.edu). 
+You can reach me at [juilinchen at gm.ntpu.edu.tw](mailto:juilinchen@gm.ntpu.edu.tw). 
