@@ -74,6 +74,7 @@ This study examines housing price dynamics during booming cycles and finds a pos
 </p>
 </details> <br> 
 
+<!--
 ## Ambiguity and Liquidity
 
 <details>
@@ -81,6 +82,7 @@ This study examines housing price dynamics during booming cycles and finds a pos
 This project studies how the ambiguity property of an asset affect its liquidity. The ambiguity property might not only affect the asset price. It might affect how people are willing to hold it as a medium of exchange. This paper builds a monetary search model to endogenize liquidity of an ambiguous asset. Ambiguity generates an additional perceived loss if buyers and sellers choose to use the asset in the transaction. This perceived loss does not show in rational expectation models since there would be no room for both parts losing. In this case, there is a pecking order theory: people will use money first. If they still want to transact more goods, they will use the asset next. This implies that the ambiguity property harms liquidity of the asset. In addition, inflation makes the value of money depreciate, and people will be willing to bring assets and use them in transactions.
 </p>
 </details> <br> 
+-->
 
 <!--
 ## Pollution Taxes in a North-South Economy with FDI and R&D
